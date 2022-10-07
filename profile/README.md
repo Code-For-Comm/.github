@@ -4,7 +4,7 @@
 <img width="250" src="https://user-images.githubusercontent.com/75534912/194496288-fc6fce48-e817-4d0d-a245-6a4bc22a349f.png"/>
 </p>
 
-<p align="center">This organisation helps you to kickstart your Open Source journey with beginner-friendly projects.</p>
+<p align="center">This organisation is founded by <a href="https://github.com/Ashish-khanagwal"/>Ashish Khanagwal</a> with purpose to help you to kickstart your Open Source journey.</p>
 <p align="center"> Make pull requests, keep conritbuting, help each other and build some amazing projects :rocket:</p>
   
 <h1></h1>
