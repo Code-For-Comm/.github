@@ -1,12 +1,21 @@
-## Hi there 👋
+<h1 align="center">Code For Community - Gateway to Open Source</h1>
 
-<!--
+<p align="center">
+<img width="250" src="https://user-images.githubusercontent.com/75534912/194496288-fc6fce48-e817-4d0d-a245-6a4bc22a349f.png"/>
+</p>
 
-**Here are some ideas to get you started:**
+<p align="center">This organisation helps you to kickstart your Open Source journey with beginner-friendly projects.</p>
+<p align="center"> Make pull requests, keep conritbuting, help each other and build some amazing projects :rocket:</p>
+  
+<h1></h1>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Follow steps to join Code For Comm
+
+- Join the Code For Community org by raising an issue (You will recieve an invitation).
+- Join our [Discord](https://discord.gg/AfYcurdCd3) server, to collaborate with other members of community.
+- Subscirbe to [Code For Comm](https://www.youtube.com/channel/UCVf21xKA03kpAzKPxsLyjJw) youtube channel to get more insights on Open Source.
+- Join [Code For Comm](https://codeforcomm.hashnode.dev) hashnode team to write and read amazing blogs.
+ 
+Read our blogs on [hashnode](https://codeforcomm.hashnode.dev) on Open Source and on other tech stacks.
+
+Join us on [Youtube](https://www.youtube.com/channel/UCVf21xKA03kpAzKPxsLyjJw) as well to learn about Open Source | DevOps | Web-Dev.
